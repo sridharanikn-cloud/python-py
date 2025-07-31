@@ -1,0 +1,27 @@
+1-creat a login pages
+    Breat it down into steps:
+Design the user interfer (buttons , screen)
+Write code for numbers input
+Add login for opreators
+Displaying the result
+Test the calculator.
+                                                         
+ 
+
+2-building a calaclator app
+Steps:
+Design the login from (usernsme&password fields)
+Write code to called user input
+Cheak the username and password
+Show success or error message
+Connect it to a database(optional)
+
+
+
+
+
+
+
+
+
+
